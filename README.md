@@ -56,7 +56,8 @@ Additional institutional characteristics include:
 ```text
 TIMES-HIGHER-EDUCATION-ANALYSIS/
 │
-├── world_university_rankings_eda_updated.ipynb
+├── notebooks/
+│   └── world_university_rankings_eda_updated.ipynb
 ├── README.md
 ├── dataset/
 │   └── world_university_rankings_2191.csv
